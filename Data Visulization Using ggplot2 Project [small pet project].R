@@ -20,6 +20,7 @@ ggplot(data=txhousing, aes(x=sales, y=volume)) + geom_point(color='blue',alpha=0
 plt1 <- ggplot(data=txhousing, aes(x=sales, y=volume)) 
 plt2 <- plt1 + geom_point(color='blue',alpha=0.5)
 plt3 <- plt2 + geom_smooth(color='red')
+Print(plt3)
 
 
 
