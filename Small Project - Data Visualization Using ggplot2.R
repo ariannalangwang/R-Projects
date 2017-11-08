@@ -1,3 +1,7 @@
+##
+# A small project I did to use ggplot2 to visualize some data from different datasets
+##
+
 # For the first few plots, use the mpg dataset
 library(ggplot2)
 library(ggthemes)
