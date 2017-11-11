@@ -99,36 +99,3 @@ ggplot(data=k_value_df, aes(x=k_values, y=missclassification_rate) ) + geom_poin
 
 
 
-
-
-
-
-
-
-
-
-
-s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
